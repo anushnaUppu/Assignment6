@@ -6,7 +6,7 @@
 
 1)Clone the project by using the command: git clone https://github.com/anushnaUppu/Assignment6.git
 
-2)Go to the repository: cd Assignment3RSA/
+2)Go to the repository: cd Assignment6/
 
 3)Compile the code using: gcc main.c
 
